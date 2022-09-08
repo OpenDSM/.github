@@ -1,6 +1,6 @@
 ![](opendsm-wallpaper-centered-logo.jpg )
-# <img src="LogoIcon-Square.svg" style="width: 50px;"> ![OpenDSM](https://opendsm.tk)
-Are you a software developer looking to put your products on the web, but are lacking a platform? We've got you covered! Welcome to the worlds first Opensource Digital Marketplace or OpenDSM for short.'
+# <img src="LogoIcon-Square.svg" style="width: 50px;"> OpenDSM
+Are you a software developer looking to put your products on the web, but are lacking a platform? We've got you covered! Welcome to the worlds first Opensource Digital Marketplace or OpenDSM for short.
 
 # Features
 OpenDSM allows anyone to create an account and upload their software for free.
